@@ -54,7 +54,7 @@ A full workshop I ran in January 2026 covering Git, GitHub, Python virtual envir
 **Application de Gestion des PFE** - [repo](https://github.com/Taha2053/Application-de-Gestion-des-PFEs)  
 A full-stack Java application for managing end-of-study projects (PFE), built as a university project.
 
-**University Management App** - [repo] (https://github.com/Taha2053/PFA1-univeristy-management-app) 
+**University Management App** - [repo](https://github.com/Taha2053/PFA1-univeristy-management-app) 
 Built in WinDev as a first-year engineering school project. Covers the full lifecycle of a university: students, professors, exams, documents, and administration.
 
 ---

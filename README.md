@@ -41,7 +41,7 @@ A beautiful Islamic web app featuring prayer times, Quran reader, Qibla directio
 <!-- **StudyShare** - [repo]() - [live]()
 A web platform for Tunisian students to access and share organized study materials. Includes a community sharing and discussion layer. -->
 
-- **LinkedIn Automation** - [repo] (https://github.com/Taha2053/Linkedin-automation)  
+- **LinkedIn Automation** - [repo](https://github.com/Taha2053/Linkedin-automation)  
 An automation tool for LinkedIn posting with a web-based GUI. Supports article writing or AI-generated content, hashtag management, and image uploads.
 
 - **Portfolio** - [live](https://taha2053.github.io/ATK-LOG.github.io/) · [repo](https://github.com/Taha2053/ATK-LOG.github.io)  

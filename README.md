@@ -1,4 +1,4 @@
-## This is Almouthana Taha Khalfallah, a Tech Lover .
+## This is Almouthana Taha Khalfallah, a Tech Lover.
 
 Applied Mathematics and Modeling Engineering student.
 Specializing in AI, deep learning, and statistical modeling.
